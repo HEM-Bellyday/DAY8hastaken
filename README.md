@@ -1,10 +1,10 @@
 <!-- ================= HEADER ================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=HEM%20Bellyday&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20Applied%20Mathematics%20%E2%80%A2%20Future%20Quant&descAlignY=60&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=HEM%20Bellyday&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20Financial%20Engineering&descAlignY=60&descSize=18&animation=fadeIn" />
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Data+Scientist+%7C+Applied+Mathematics;Aspiring+Quantitative+Analyst+%F0%9F%93%88;Machine+Learning+%E2%80%A2+Deep+Learning+%E2%80%A2+LLMs;Stochastic+Modeling+%E2%80%A2+Statistics+%E2%80%A2+EDA;Turning+data+into+decisions+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Data+Scientist+%7C+Financial+Engineering+%F0%9F%93%88;Machine+Learning+%E2%80%A2+Deep+Learning+%E2%80%A2+LLMs;Stochastic+Modeling+%E2%80%A2+Statistics+%E2%80%A2+EDA;Turning+data+into+decisions+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -33,8 +33,8 @@
 ```python
 class Day:
     name     = "HEM Bellyday"
-    role     = "Data Scientist | Applied Mathematics"
-    goal     = "Quantitative Finance 📈"
+    role     = "Data Scientist | Financial Engineering"
+    focus    = "Financial Engineering 📈"
     school   = "Institute of Technology of Cambodia — Financial Engineering"
     work     = "Quantitative Analyst & Data Engineering @ STINL"
     interest = ["Statistical Modeling", "EDA", "Stochastic Processes",
