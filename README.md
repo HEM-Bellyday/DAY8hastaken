@@ -4,7 +4,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Data+Scientist+%7C+Financial+Engineering+%F0%9F%93%88;Machine+Learning+%E2%80%A2+Deep+Learning+%E2%80%A2+LLMs;Stochastic+Modeling+%E2%80%A2+Statistics+%E2%80%A2+EDA;Turning+data+into+decisions+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=Data+Scientist+%7C+Financial+Engineering+%F0%9F%93%88;Machine+Learning+%E2%80%A2+Deep+Learning+%E2%80%A2+Reinforcement+Learning;Stochastic+Modeling+%E2%80%A2+Statistics+%E2%80%A2+EDA;Turning+data+into+decisions+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -38,7 +38,7 @@ class Day:
     school   = "Institute of Technology of Cambodia — Financial Engineering"
     work     = "Quantitative Analyst & Data Engineering @ STINL"
     interest = ["Statistical Modeling", "EDA", "Stochastic Processes",
-                "Machine Learning", "Deep Learning", "LLM Fine-tuning"]
+                "Machine Learning", "Deep Learning", "Reinforcement Learning"]
     languages = {"English": "Fluent", "French": "A2"}
 
     def motto(self):
@@ -48,7 +48,7 @@ class Day:
 - 🔭 Building **ML models, data pipelines, and quant models** for real decisions
 - 🏆 **Champion (1st Place)**, Turing Hackathon Cycle 10 (2026)
 - 🥈 **2nd Place**, AI Smart Farming (2026)
-- 🌱 Currently learning: **quantitative finance, stochastic calculus, LLM fine-tuning**
+- 🌱 Currently learning: **Machine Learning & Reinforcement Learning for finance**
 - 📫 Reach me: **hembellyday@gmail.com**
 
 ---
@@ -66,7 +66,7 @@ class Day:
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 
-### 🤖 Machine Learning · Deep Learning · LLMs
+### 🤖 Machine Learning · Deep Learning · Reinforcement Learning
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
