@@ -157,7 +157,7 @@ Coursework for **Advanced Programming for Data Science** at ITC.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DAY8hastaken&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HEM-Bellyday&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&count_private=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAY8hastaken&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&langs_count=8" />
 
 <img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=DAY8hastaken&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=FF6F00&currStreakLabel=00d9ff" />
